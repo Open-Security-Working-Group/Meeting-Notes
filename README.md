@@ -1,2 +1,3 @@
 # Open Security Working Group
-Meeting notes for the group
+
+Description: This group is focused on common security issues within the Linux Community.
