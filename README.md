@@ -1,18 +1,15 @@
 # Open Security Working Group
 
-**Meeting Notices**
-<li class="task-list-item">...</li>
+**What is the Open Security Working Group (OSWG)**</br>
 
-**Agenda**
- Convene, roll call, welcome new people
+
+**What are the objectives of the OSWG?**</br>
  
- Approve previous meeting minutes
  
-**Decisions Made**
- Decision 1
- Decision 2
- ...
-**Action Items**
- Action 1
- Action 2
+**How to contribute to OSWG**</br>
+ 
+ 
+
+**Contact Information**
+ 
 
