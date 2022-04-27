@@ -38,7 +38,7 @@ Track leaders from each company are in **bold**.
 | Red Hat | Ash Westbrook | Senior Field Product Manager | Both | awestbro@redhat.com
 |===
 
-== Pappers
+== Papers
 
 * WIP: https://github.com/Open-Security-Working-Group/paper-what-makes-hardened-linux-system[What makes a hardened linux system?]
 * WIP: https://github.com/Open-Security-Working-Group/paper-what-makes-hardened-container-image[What makes a hardened container image?]
