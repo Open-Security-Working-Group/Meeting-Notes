@@ -1,0 +1,80 @@
+= Mar 18, 2022
+
+[cols="1h,1"]
+|===
+| Moderator              | [.line-through]#Canonical# (Blaine did as they had conflict)
+| Next Meeting Date      | Apr 22, 2022
+| Next Meeting Moderator | Canonical
+|===
+
+== Agenda:
+* Group Overview: Working out ways we can provide collective guidance for DISA (hardened images) on OS and Container Security
+** Need to get names of group member participants from Suse/Canonical
+
+== Notes:
+* Need to get the working groups members connected so they can start communicating.
+** What is a hardened image
+*** RH (Ash Westbrook) - wanted to be as agnostic as possible
+*** Do we check on install or continuously?
+**** Config vs monitoring and drift
+**** How to adapt to changing standards
+***** Ex disable unpriv ebpf
+**** ? What are we doing to not reinvent what is in NIST control lists?
+***** New, missed, things we care about?
+***** Take and target the focus on the NIST controls
+****** Do we directly reference the material or ignore it?
+******* We should reference and relate
+****** Identify the “I don’t think this does what you think it does”
+****** Identify the the blindspots around these controls
+**** NIST and DISA’s implementation of the controls - one size fits all doesn’t really work - important for us to divide out for where they are employed.
+***** Many things in the STIGS that are blindly deployed that are not applicable
+*** Location and workload type should have guidance
+** Container Security
+*** Two types - container image or runtimes or both?
+*** How much overlap will there be with the hardened linux? (OS vs containers)
+**** Focus on what the 3 of us have in common - the theory and rules should be roughly the same.
+**** Concentrating on security best practices
+***** Cover overlap between the 3
+***** Environment
+***** Where deployed vs how deployed
+***** Specific implementation
+***** Auditing
+*** What is the scope -
+**** Narrowly focusing on the actions performed on building or focusing on scanning when container is pulled? Or are we extending it to the process to have continuous improvement of “securing” it.
+***** Is this 1 Whitepaper or many?
+***** What should be done initially, and then how do you handle configuration drift? How do you maintain compliance?
+***** Initial - how to do it on standup
+***** Later - how to maintain and daily runtime maintenance of security
+***** We want to call out and help to set the Standard for what the community adopts and expects.
+***** Scope - setting and accepting the risks of the source into creating the image? We have set the bar - where you get the source of the image and work your way out. (this seems to be the right path to take). Start with the assumption and progress from there.
+***** We need to set the principles, make sure the source is trusted, and that it is aligned with the end-goal principles from the beginning.
+** Goal is to have initial whitepaper set by June
+
+* Need to have specific guidance for containers and STIG (hardening) that makes sense for deployment
+** Containers are not a General Purpose Operating System (GPOS)
+*** Some are technical powerhouses trying to deploy
+*** Others are smaller, need security, but need help with the execution and deployment to do it right
+**** What do I do first?
+**** Where do I start
+**** They have been underserved.
+
+* Concerns to create the image that security is something that is just “the press of the button”
+** Hardening is more than just settings
+** How do you know what should be allowed vs forbidden? How do they know that it is working correctly?
+*** Need to keep focus on the complexity of the idea, help to point to where to find help
+*** This could be a large effort to meet all the concerns - we need to determine the standard and provide the guidance to what the standard should be.
+**** Scaffolding the assistance should be up to the companies and partners to provide the applications
+** Linus is based on modules or types of granularity
+*** The steps of hardening depend on the types and kinds of packages you have installed
+*** What is the base, maybe create a modular standard for different types of deployments.
+**** Could the packages provide hardening guidance if they are installed
+**** Create a technical standard that brings in the hardening recommendations as the packages, or workloads are installed? (may be technical implementation)
+***** Focus on standard across the board
+****** FIPS, root, example may be too much minutiae
+*** Focus on our recommendations on how we should harden secure a containerized workload
+** Theories around fundamentals
+
+== Action Items
+* Blaine will send and email with the names we have so far to help lead the working groups from each company, will start to connect them so they can start working together offline in between monthly sessions.
+* Workgroup Updates
+** Will start working and collaborating.

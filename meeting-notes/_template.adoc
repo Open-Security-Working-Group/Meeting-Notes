@@ -1,4 +1,4 @@
-= Feb 18, 2022
+= <MONTH>, <DAY>, <YEAR>
 
 [cols="1h,1"]
 |===
