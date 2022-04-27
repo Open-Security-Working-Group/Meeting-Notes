@@ -1,0 +1,20 @@
+= April 22, 2022
+
+[cols="1h,1"]
+|===
+| Moderator              | [.line-through]#Canonical# (Blaine did as they had conflict)
+| Next Meeting Date      | May 20th, 2022
+| Next Meeting Moderator | Suse
+|===
+
+== Agenda:
+* Red Hat will present initial work on white papers for discussion: Both Documents have been added to the github (see Below)
+** https://github.com/Open-Security-Working-Group/Meeting-Notes/find/main
+* Red Hat would like to open discussion on each initial doc for feedback and to brainstorm additions/changes/recommendations for each document
+
+== Notes:
+* None.
+
+== Action Items
+* refactor github for meeting notes
+* refactor github for paper outlines
