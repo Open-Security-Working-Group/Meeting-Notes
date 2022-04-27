@@ -1,0 +1,38 @@
+= Open Security Working Group
+Meeting notes from Open Security Working Group discussions.
+
+== Steering Committee:
+
+[cols="1,1,1,1"]
+|===
+| Company | Contributor | Role | Email
+
+| Canonical | Mossimo | |
+| Red Hat | Amy Farley | Product Manager - Security | afarley@redhat.com
+| Red Hat | Andrea Hall | | ahall@redhat.com
+| SUSE | Blaine Stone | | blaine.stone@suse.com
+|===
+
+== Contributors
+Track leaders from each company are in **bold**.
+
+[cols="1,1,1,1,1"]
+|===
+| Company | Contributor | Role | Topic Focus (OS/Container/Both) | Email
+| Canonical | | | |
+| SUSE | | | |
+| Red Hat | Marek Haicman | Product Owner - Compliance | Both |mhaicman@redhat.com
+| Red Hat | **Ian Tewksbury** | Senior Principal Architect | Containers | itewk@redhat.com
+| Red Hat | Gus Parvin |Principal Software Engineer | Containers | gparvin@redhat.com
+| Red Hat | Kevin O'Donnell | Senior Principal Architect | Both | kodonnel@redhat.com
+| Red Hat | Kenny Peeples | Principal Architect | Both | kpeeples@redhat.com
+| Red Hat | Trevor Bryant | Solution Architect | Both | trevorbryant@redhat.com
+| Red Hat | Joshua Loscar | Senior Technical Account Manager | Both | jloscar@redhat.com
+| Red Hat | **Mark Salowitz** |Secure Infrastructure Architect | Linux | msalowit@redhat.com
+| Red Hat | Steven Grubb | Senior Principal Software Engineer | Both | sgrubb@redhat.com
+| Red Hat | Ash Westbrook | Senior Field Product Manager | Both | awestbro@redhat.com
+|===
+
+== Meeting Notes
+
+include::meeting-notes/2-18-2022.adoc[leveloffset=+2]

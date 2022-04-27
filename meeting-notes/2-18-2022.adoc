@@ -1,0 +1,41 @@
+= Feb 18, 2022
+
+[cols="1h,1"]
+|===
+| Moderator              | Steering Committee
+| Next Meeting Date      | 03/18/22
+| Next Meeting Moderator | Canonical
+|===
+
+== Agenda:
+* Welcome, guidance, housekeeping
+** Collaboration space:
+** What we need…
+** Rotating Moderation (alphabetical by company)
+* Introduction of WG Topics
+** “What makes Linux hardened (OS)?”
+** “What is a hardened container?”
+
+== Notes:
+* Introduction,housekeeping
+* Decisions: Working groups work async (collab in space between meetings) and then update the working group in the monthly meeting. Goal date of Jul 1, 2022 to have a publishable collaborative white paper available to the community.
+* Questions:
+** Need to see representatives from CIS/DISA/others. Can we see more of their contributions?
+*** This is the goal - they will provide more once they see we have valuable information to start with. They want to see that we are invested, and providing targeted advice, valuable opinions.
+** Thinking about upstream projects (like Compliance as Code) - need to know how it relates to the standing of the standards by DISA.
+                • One of the projects that could benefit from this work.
+                • Add in specific certification issues - to drive easier mapping and contributions that meet the needs of meeting the certifications and profile requirements.
+* Who will drive/lead the working groups? (Take home AI - with first collaboration sessions to set. Group leaders emailed to Blaine/Amy by end of next week (Feb 25)) - at least one person per company and be willing to work in the CaC workspace where needed.
+* DISA/etc will not join right away - may we think from different PoV - each vendor to ask specific set of questions to understand our clients needs? When we know these needs, then we can know what the goals of the future workshops should be?
+** Agreed - we share in a way that allows us to collab
+** Think about sufficiency - are we fully or partially supporting it? How do we know when we are compliant/complete? (CaC application)
+** Customers are asking us for help “what does hardening mean?” - STIG is very long and hard to understand and does it fully protect? Or just a niche environment? Other options are the more generic (guidelines) of the BSI (german standards) - how do you secure an IT landscape, and is modularized.
+*** Refine over time
+*** Be able to answer the right questions over the right topics
+*** Needs to be a top-down approach - and how to get comprehensive approach (question/answer approach)
+
+== Action Items
+* Fill in working group members (email to Blaine Stone or Amy Farley by  end of next week (Feb 25))
+* Set the working group leaders from each of the vendors, (email to Blaine Stone or Amy Farley by  end of next week (Feb 25))
+** Working groups encouraged to start working together by March 4th, 2022.(email to Blaine Stone or Amy Farley by  end of next week (Feb 25))
+** (email to Blaine Stone or Amy Farley by  end of next week (Feb 25))

@@ -1,0 +1,17 @@
+= Feb 18, 2022
+
+[cols="1h,1"]
+|===
+| Moderator              | #TODO#
+| Next Meeting Date      | #TODO#
+| Next Meeting Moderator | #TODO#
+|===
+
+== Agenda:
+* #TODO#
+
+== Notes:
+* #TODO#
+
+== Action Items
+* #TODO#
