@@ -1,7 +1,12 @@
 = Open Security Working Group
-Meeting notes from Open Security Working Group discussions.
+Information on the Open Security Working Group and meeting notes.
 
-== Steering Committee:
+== Overview
+#TODO - What is the Open Security Working Group (OSWG)?#
+
+#TODO - What are the objectives of the OSWG?#
+
+== Steering Committee
 
 [cols="1,1,1,1"]
 |===
@@ -32,6 +37,9 @@ Track leaders from each company are in **bold**.
 | Red Hat | Steven Grubb | Senior Principal Software Engineer | Both | sgrubb@redhat.com
 | Red Hat | Ash Westbrook | Senior Field Product Manager | Both | awestbro@redhat.com
 |===
+
+== How to contribute
+#TODO#
 
 == Meeting Notes
 
