@@ -13,9 +13,11 @@ Information on the Open Security Working Group and meeting notes.
 | Company | Contributor | Role | Email
 
 | Red Hat | Amy Farley | Product Manager - Security | afarley@redhat.com
+| Red Hat | Andrea Hall | Specialist Solution Architect | ahall@redhat.com
 | SUSE | Blaine Stone | Certification Compliance Program Manager| blaine.stone@suse.com
-| Red Hat | Andrea Hall | | ahall@redhat.com
+| SUSE | Knut Trepte | Product Manager - Security | knut.trepte@suse.com
 | Canonical | Henry Coggill | Product Manager | henry.coggill@canonical.com
+| CIS | Eric Pinnell | Cybersecurity Engineer | eric.pinnell@cisecurity.org
 |===
 
 == Contributors
@@ -25,17 +27,18 @@ Track leaders from each company are in **bold**.
 |===
 | Company | Contributor | Role | Topic Focus (OS/Container/Both) | Email
 | SUSE | Marcus Meissner | Distinguished Engineer Solutions Security | OS | meissner@suse.com
-| SUSE | Knut Trepte | Product Manager - Security | OS | knut.trepte@suse.com
+| SUSE | Ivan Teblin | Solution Security Certification Manager | OS | ivan.teblin@suse.com
 | SUSE | Stoyan Manolov | Solutions Security Manager | OS | stoyan.manolov@suse.com
 | SUSE | Johannes Segitz | Software Engineer | OS | jsegitz@suse.com
 | SUSE | Petr Spirik | VP Information Security | OS | petr.spirik@suse.com
 | SUSE | Katia Rojas | Security Certification Project Manager | OS | kataanaid.gutierrezrojas@suse.com
 | SUSE | Rumen Chikov | Product Security Engineer | OS | rumen.chikov@suse.com
 | SUSE | Anastasjia Ivanovic | Security Certification Engineer | OS | anastasjia.ivanovic@suse.com
-| SUSE | Earl "Bret" Sampson | Senior Software Engineer | OS | esampson@suse.com
-| SUSE | Ronald Nunan | Senior Product Manager | OS | ronald.nunan@suse.com
-| SUSE | Guilherme Macedo | Lead Security Engineer | Both | guilherme.macedo@suse.com
-| SUSE | Chris Beaudet | Pre-Sales Engineer | Both | chris.beaudet@rancherfederal.com
+| SUSE | **Earl "Bret" Sampson** | Senior Software Engineer | OS | esampson@suse.com
+| SUSE | **Ronald Nunan** | Senior Product Manager | OS | ronald.nunan@suse.com
+| SUSE | **Guilherme Macedo** | Lead Security Engineer | Both | guilherme.macedo@suse.com
+| SUSE RGS | Chris Beaudet | Pre-Sales Engineer | Both | chris.beaudet@rancherfederal.com
+| SUSE RGS | Ben Zifrony | RVP Alliances | Both | ben.zifrony@rancherfederal.com
 | Red Hat | Marek Haicman | Product Owner - Compliance | Both |mhaicman@redhat.com
 | Red Hat | **Ian Tewksbury** | Senior Principal Architect | Containers | itewk@redhat.com
 | Red Hat | Gus Parvin |Principal Software Engineer | Containers | gparvin@redhat.com
@@ -48,12 +51,12 @@ Track leaders from each company are in **bold**.
 | Red Hat | Ash Westbrook | Senior Field Product Manager | Both | awestbro@redhat.com
 | Canonical | Dane Redman | Enterprise Development | Both | dane.redman@canonical.com
 | Canonical | Lech Sandecki | Product Manager | OS | lech.sandecki@canonical.com
+| Canonical | Kelley Riggs | Solution Sales Manager | Both | kelley.riggs@canonical.com
 | CIS | Justin Brown | Cybersecurity Engineer | Both | justin.brown@cisecurity.org
-| CIS | Eric Pinnell | Cybersecurity Engineer | Both | eric.pinnell@cisecurity.org
 
 |===
 
-== Papers
+== Pappers
 
 * WIP: https://github.com/Open-Security-Working-Group/paper-what-makes-hardened-linux-system[What makes a hardened linux system?]
 * WIP: https://github.com/Open-Security-Working-Group/paper-what-makes-hardened-container-image[What makes a hardened container image?]
