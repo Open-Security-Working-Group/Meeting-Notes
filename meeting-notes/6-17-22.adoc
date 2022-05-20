@@ -1,9 +1,9 @@
-= May 20, 2022
+= June, 17, 2022
 
 [cols="1h,1"]
 |===
-| Moderator              | Suse
-| Next Meeting Date      | June 17th, 2022
+| Moderator              | #TODO#
+| Next Meeting Date      | #TODO#
 | Next Meeting Moderator | #TODO#
 |===
 
